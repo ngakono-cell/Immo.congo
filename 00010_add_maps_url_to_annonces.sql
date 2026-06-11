@@ -1,0 +1,1 @@
+ALTER TABLE public.annonces ADD COLUMN maps_url text DEFAULT NULL;
